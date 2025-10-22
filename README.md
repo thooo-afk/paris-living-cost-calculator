@@ -163,14 +163,13 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, le modifier et le distribuer.
 
----
+
 
 ## 👤 Auteur
 
 **Votre Nom**  
-- GitHub: [@votre-username](https://github.com/votre-username)
-- LinkedIn: [Votre profil](https://linkedin.com/in/votre-profil)
-- Email: votre.email@example.com
+- LinkedIn: (https://www.linkedin.com/in/anthony-biyele-b68397222/)
+
 
 ---
 
@@ -179,44 +178,13 @@ Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, le modifier et l
 - Données fournies par l'Observatoire des loyers de Paris
 - Inspiré par le besoin d'outils d'aide à la décision pour le logement à Paris
 
----
+
 
 ## 📝 Notes
 
 ⚠️ **Disclaimer** : Les loyers sont basés sur des moyennes et peuvent varier selon l'état du logement, l'emplacement exact, et la période. Les charges sont estimées à 15% du loyer. Ce projet est un outil d'aide à la décision, pas un conseil financier professionnel.
 
----
+
 
 **⭐ Si ce projet vous a été utile, n'oubliez pas de laisser une étoile !**
-```
 
----
-
-## ✏️ **IMPORTANT : Personnalisez ce README !**
-
-**Remplacez :**
-- `VOTRE_USERNAME` → Votre nom d'utilisateur GitHub
-- `Votre Nom` → Votre vrai nom
-- `votre.email@example.com` → Votre email
-- Ajoutez votre LinkedIn si vous en avez un
-
-**Puis cliquez sur "Commit changes"** en bas de la page
-
----
-
-# ÉTAPE 5 : Uploader les fichiers
-
-## 📤 Maintenant, ajoutons vos fichiers au repository
-
-### **Méthode 1 : Via l'interface GitHub (le plus simple)**
-
-1. **Sur la page de votre repository**, cliquez sur **"Add file" > "Upload files"**
-
-2. **Glissez-déposez** ou sélectionnez vos 3 fichiers :
-   - `PariBudget_Analyzer.ipynb`
-   - `resultats_analyse_paris.csv`
-   - `requirements.txt`
-
-3. **En bas de la page**, écrivez un message de commit :
-```
-   Initial commit - Add project files
